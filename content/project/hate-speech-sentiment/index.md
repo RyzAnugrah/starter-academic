@@ -14,7 +14,6 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-
 ### Latar Belakang
 
 Banyak gerakan gerakan yang dilakukan dalam media sosial khususnya Twitter yang semuanya sukses mampu mempengaruhi pengguna nya. Ada gerakan yang bertujuan baik ada juga gerakan dengan tujuan jahat yaitu menebar kebencian kepada orang lain. Biasanya gerakan di Twitter itu dilakukan dengan menggunakan tagar (#), Gerakan terbaru ada tagar Hatespeech (#HateSpeech), dilihat dari namanya sudah jelas yaitu ucapan kebencian (Ghulam Asrofi Buntoro, 2016).
