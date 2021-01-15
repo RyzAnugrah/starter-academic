@@ -1,6 +1,6 @@
 ---
 title: iTerra
-subtitle: iTerra is a campaign and educational platform designed for educating
+summary: iTerra is a campaign and educational platform designed for educating
   and invite campaigns about the environment with an attractive and innovative
   system.
 date: 2021-01-15T11:12:56.367Z
@@ -8,17 +8,11 @@ draft: false
 featured: false
 tags:
   - Website
-external_link: " "
+external_link: ""
 image:
-  filename: iterra.png
   focal_point: Smart
-  preview_only: false
 ---
-# :octocat: Projek RPL
-
-## :earth_asia: iTerra (Web Based)
-
-<img src="https://github.com/alvin2105/iTerra/blob/master/assets/images/logo/iterra-01.png" alt="Logo iTerra">
+{{< figure src="iterra-01.png" title="iTerra Logo" >}}
 
 ### :notebook: Nama Kelompok:
 

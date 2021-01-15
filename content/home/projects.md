@@ -3,7 +3,7 @@ widget: portfolio
 widget_id: project
 headless: true
 weight: 65
-title: Projects
+title: Portfolio
 subtitle: ""
 active: true
 content:
@@ -12,10 +12,15 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Artificial Intelligence
+      tag: Artificial Intelligence
+    - name: Computer Network
+      tag: Computer Network
+    - name: Website
+      tag: Website
     - name: Other
-      tag: Demo
+      tag: Other
+      # tag: Demo
 design:
   columns: "2"
   view: 2
