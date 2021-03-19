@@ -8,52 +8,60 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'Welcome to My Personal Website.'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+# email: test@example.org
+# phone: 888 888 88 88
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
+#   country_code: US
+# coordinates:
+#   latitude: '37.4275'
+#   longitude: '-122.1697'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+# office_hours:
+#   - 'Monday 10:00 to 13:00'
+#   - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
+  - icon: telegram
+    icon_pack: fab
+    name: Get in Touch
+    link: 'https://t.me/ryzanugrah'
+  - icon: instagram
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: 'https://instagram.com/ryzanugrah'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: DM Me
+  #   link: 'https://twitter.com/Twitter'
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: 'skype:echo123?call'
+  # - icon: keybase
+  #   icon_pack: fab
+  #   name: Chat on Keybase
+  #   link: 'https://keybase.io/'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -68,8 +76,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: 'Mon, Jan 2, 2006'
+time_format: '15:04'
 address_format: en-us
 
 # Site features
@@ -77,20 +85,20 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
+math: true
+diagram: true
 privacy_pack: false
 edit_page:
   repo_url: ''
   content_dir: ''
-  repo_branch: main
+  repo_branch: master
   editable:
     page: false
     post: false
     book: false
 show_related:
   book: true
-  page: false
+  page: true
   post: true
   project: true
   publication: true
@@ -111,7 +119,7 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: January 2006
+  date_format: Mon, January 2, 2006
   citation_style: apa
 projects:
   post_view: 2
@@ -145,9 +153,9 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-HX2CS27Q1C'
   google_tag_manager: ''
-  google_site_verification: ''
+  google_site_verification: 'LOLAH99DhvoSXh8LCwujo7tQg5FISMaP3NWE-YX_01A'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
