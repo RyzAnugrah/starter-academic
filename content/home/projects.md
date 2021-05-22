@@ -1,9 +1,9 @@
 ---
-widget: portfolio
+widget: projects
 widget_id: project
 headless: true
 weight: 65
-title: Portfolio
+title: Projects
 subtitle: ""
 active: true
 content:
@@ -16,6 +16,8 @@ content:
       tag: Artificial Intelligence
     - name: Computer Network
       tag: Computer Network
+    - name: Mobile
+      tag: Mobile
     - name: Website
       tag: Website
     - name: Other
